@@ -569,6 +569,10 @@
     padding: 20px;
   }
 
+  .gallery__modal-image {
+    width: 100%;
+  }
+
   .gallery__modal-image-descr {
     margin: 0;
     margin-top: 30px;
